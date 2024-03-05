@@ -68,21 +68,23 @@ Rust实战
 
 #### 2.1.1 编译单文件的Rust程序
 
-##### Code 2.1
+##### Code 2.1: smallest.rs
 
 #### 2.1.2 使用cargo编译Rust项目
+
+##### Code: OK project
 
 ### 2.2 初探Rust语法
 
 #### 定义变量和调用函数
 
-##### Code 2.2
+##### Code 2.2: numeric
  (see:Code 2.9)
 ### 2.3 数字类型
 
 #### 2.3.1 整数和浮点数
 
-##### Code 2.3
+##### Code 2.3: numbers
 
 #### 2.3.2 整数的不同进制
 
